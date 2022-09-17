@@ -72,15 +72,3 @@ resource "aws_db_instance" "default" {
 
 
 
-
-
-
-
-
-
-
-
-Message june_devops_2022
-
-
-
